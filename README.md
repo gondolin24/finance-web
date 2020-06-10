@@ -1,2 +1,1 @@
-# finance-web
- stuff for stuff
+This is a finance tool to help budget expenses
